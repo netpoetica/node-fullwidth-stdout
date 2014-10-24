@@ -1,0 +1,29 @@
+{
+  "name": "node-fullwidth-stdout",
+  "version": "1.0.0",
+  "description": "Format a string for stdout to be the full width of a terminal window",
+  "license": "MIT",
+  "repository": "netpoetica/node-fullwidth-stdout",
+  "maintainers": [
+    "Keith Rosenberg <kthrose@netpoetica.com> (http://www.netpoetica.com)"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "stdout",
+    "io",
+    "terminal",
+    "newline"
+  ],
+  "devDependencies": {
+    "chalk": "^0.5.1",
+    "mocha": "*"
+  }
+}
