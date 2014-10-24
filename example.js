@@ -10,8 +10,8 @@ function printMsg(msg){
 }
 
 // Configure fullWidth
-fullWidth.setTabLength(10);
-fullWidth.setFillCharacter("*");
+fullWidth.setTabLength(5);
+fullWidth.setFillCharacter(" ");    // It's already space by default, but for illustrative purposes
 
 // This will print a line straight across the terminal window.
 printMsg();
