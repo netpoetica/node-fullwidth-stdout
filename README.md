@@ -32,7 +32,7 @@ printMsg();
 ```
 Which will output as below:
 
-# <img width="696" src="https://cdn.rawgit.com/netpoetica/node-fullwidth-stdout/master/output.png" alt="example of output">
+# <img width="696" src="https://cdn.rawgit.com/netpoetica/node-fullwidth-stdout/e9934144960350ced5d8b2d623c5ea4a6e0e43c0/output.png" alt="example of output">
 
 This little library is intended for use in a situation where, for example, you are using [chalk](https://github.com/sindresorhus/chalk) with a background color to your text, and you want your background color to extend the entire width of your terminal.
 
